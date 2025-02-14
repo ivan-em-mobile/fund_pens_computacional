@@ -11,7 +11,7 @@ Este repositório oferece:
 
 ## Como usar
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1. Clone este repositório: `git clone https://github.com/ivan-em-mobile/fund_pens_computacional`
 2. Explore os arquivos e tutoriais.
 
 ## Contribuição
