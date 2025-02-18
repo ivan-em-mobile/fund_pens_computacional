@@ -1,0 +1,119 @@
+
+
+Web Design 2025.1
+Ivan Paulino da Silva
+11 94754-1829
+ivan.paulino@vocacao.org.br
+@_ivanpaulino
+
+
+
+
+
+prompt
+
+ordem + estrutura + resultado
+
+Boa tarde, pode fazer para mim um explicação sobre Pitch, para mim apresentar ao meu instrutor.
+
+
+
+
+Apresentação
+
+Pitch - 1min ~ 10min
+(Assunto Sequencial)
+Seminário - 10min ~ 30min
+(Livro - Especialista)
+Palestra - 30min ~ 60min
+(Especialista em trabalho)
+Workshop - 45min ~ 160min
+
+
+
+Recursos
+
+Slide;
+Vídeo;
+Podcast;
+Storytelling.
+
+
+
+
+Comunicação
+
+Emissor
+Mensagem (verbal - Não Verbal)
+Receptor
+
+
+Copiar com teclado:
+CTRL+c 
+
+Colar com teclado:
+CTRL+v 
+
+Mover(Cortar) com Teclado:CTRL+x
+
+
+
+Logo Win + v
+Exibir área de transferência
+
+
+Pensamento Computacional
+
+
+
+
+
+
+
+Decomposição:
+
+Reconhecimento de Padrões:
+
+Abstração:
+
+Algoritmos:
+
+
+
+
+Extensão de Imagens
+
+	png -> imagem para site
+	jpeg / jpg -> 
+para impressora / digital
+	webp -> imagem salva na web
+
+unidade de medida na Web
+cm, mt, km
+porcentagens = %
+pixel = px
+wv = 
+hv =
+em =
+rem =
+
+
+
+
+
+
+
+Paginas de Internet .html
+estrutura de pagina (html,xml,py);
+código (CSS, JS, PY);
+texto e imagens; 
+hiperlinks.
+
+
+
+
+
+
+
+
+
