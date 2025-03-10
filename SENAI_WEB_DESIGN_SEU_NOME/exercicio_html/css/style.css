@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f0ffff;
+}
+
+header{
+
+}
+
+h1{
+    color: rgb(242, 66, 35);
+}
+
+nav{
+
+}
+
+ul,li{
+
+}
+
+section{
+
+}
+
+article{
+
+}
+
+footer,p{
+
+}
