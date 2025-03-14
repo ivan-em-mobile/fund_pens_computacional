@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+/* Vamos criar nosso primerio CSS */
+
+* {
+    margin: 0;
+    /*  */
+    padding: 0;
+    /*  */
+    box-sizing: border-box;
+    /* Ele vai definira largura e o comprimento da página pré estabelecida*/
+    font-family: 'Times New Roman', Times, serif;
+    /*  */
+}
+
+body {
+    background-color: #f3f6d8;
+}
+
+h1,
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f8bc25d1;
+    /* font-size: 30px; */
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    color: #6495ed;
+    margin: 7px;
+}
+
+div {
+    background-color: #f64606;
+    border: solid royalblue 5px;
+    width: 250px;
+    height: 175px;
+}
+
+span{
+    background-color: #fa02c0;
+    border: solid #79e141 5px;
+    width: 2500px;
+    height: 1750px;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#sasa {
+    background-color: #fe6b86;
+    font-size: larger;
+    margin-right: 14px;
+    color: #8a2be2;
+}
+
+#beaa {
+    background-color: #3cd3f1;
+}

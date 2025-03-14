@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+/* reiniciar a pagina margem, espaço entre
+linhas e borda da pagina */
+
+:root{
+    --fundtela:#9F7DFC;
+    --desttexto:#86A8E7;
+    --linktela:#5FFBF1;
+    --tituloforte:Arial, Helvetica, sans-serif;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    /* serve para colorir o fundo de 
+    pagina, usando o hexadecimal. 
+    E podemos usar o background-image para 
+    colocar mais cores de paginas*/
+
+    background-image: linear-gradient(to left bottom, #051937, #a8eb12);
+    /* inserir explicação aqui */
+    background-image: url("/dragon_ball4k01.png");
+    /* inserir explicação aqui */
+    background-position: top;
+    /* inserir explicação aqui */
+    background-repeat: no-repeat;
+    /* inserir explicação aqui */
+    background-attachment: fixed;
+     /*inserir explicação aqui */
+     background-size:cover;
+
+    /* ------------solucao para imagens reduzidas ------------
+    background-image: url("/testegoku.png");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size:cover;
+*/
+    text-align: justify;
+    color: rgb(210, 211, 212);
+
+}
+
+header, h1{
+    /* inserir explicação aqui */
+    width: 100vw;
+    height: 25vh;
+    background-color:var(--fundtela);
+    text-align: center;
+}
+
+menu,ul{
+    /* inserir explicação aqui */
+    width: 100vw;
+    height: 10vh;
+    background-color:var(--fundtela);
+    
+}
+
+li{
+    /* inserir explicação aqui */
+    list-style-type: none;
+    text-align: center;
+}
+
+section{
+    width: 100vw;
+    height: auto;
+    background-color:var(--desttexto);
+}
+footer{
+    width: 100vw;
+    height: 5vh;
+    background-color:var(--fundtela);
+    text-align: center;
+}

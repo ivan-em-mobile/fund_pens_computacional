@@ -1,0 +1,95 @@
+prompt
+
+ordem + estrutura + resultado
+
+
+
+
+
+
+
+Apresentação
+
+Pitch - 03min~10min*
+Seminário -15min
+Palestra - 40,60,40min
+Workshop - 60min
+
+Recursos
+
+Slide;
+Vídeo;
+Podcast;
+Storytelling.
+
+Comunicação
+
+Emissor
+Mensagem (verbal - Não Verbal)
+Receptor
+
+
+Copiar com teclado:
+CTRL+c 
+
+Colar com teclado:
+CTRL+v 
+
+Mover(Cortar) com Teclado:CTRL+x
+
+
+
+Logo Win + v
+Exibir área de transferência
+Pensamento Computacional
+
+
+Decomposição:
+
+Reconhecimento de Padrões:
+
+Abstração:
+
+Algoritmos:
+
+
+
+HTML 
+(Linguagem de Marcação de Hipertexto)
+
+Linguagem de Programação
+Recebe DADOS, 
+Interpreta DADOS, 
+Exibi DADOS
+
+
+
+
+
+
+HTML+CSS+Js
+(Front-End)
+
+Full-Stack ->
+
+(Back-End)
+MySQL + GO +PHP +Python+ Js
+
+LAYOUT
+
+DISPOSIÇÃO DE ELEMENTOS NA TELA:TEXTO, IMAGEM, BOTÃOES E LINKS.
+
+TELA (MOBILE, DESKTOP).
+
+RESPOSIVIDADE (CRIAR SITE TANTO PARA MOBILE E DESKTOP.
+
+USANDO O GIT HUB WEB
+	
+PARA EDITAR O CÓDIGO PODEMOS USAR
+O (SHIFT + .) VAMOS ABRIR O CÓDIGO
+
+
+
+
+
+
