@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+@keyframes animacao {
+    0% {
+        background-color: #ffff7f;width: 500px;
+    }
+
+    50% {
+        background-color: #0000ff;width: 250px;
+    }
+
+    100% {
+        background-color: #8cf306;width: 50px;
+    }
+
+
+    /* from {
+        background-color: aquamarine;
+    }
+
+    to {
+        background-color: blue;
+    } */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: #6495ed;
+}
+
+.container {
+    width: 500px;
+    height: 500px;
+    background-color: #6495ed;
+    animation: animacao;
+    animation-duration: 16s;
+    animation-delay: 02s;
+    animation-iteration-count: infinite;
+}
