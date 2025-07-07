@@ -1,0 +1,151 @@
+@charset "utf-8";
+
+/* reiniciar a pagina margem, espaço entre
+linhas e borda da pagina */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body,
+html {
+    /* serve para colorir o fundo de 
+    pagina, usando o hexadecimal. 
+    E podemos usar o background-image para 
+    colocar mais cores de paginas*/
+
+    height: 100vh;
+    background-image: linear-gradient(to left bottom, #051937, #a8eb12);
+    /* inserir explicação aqui */
+    background-image: url("/dragon_ball4k01.png");
+    /* inserir explicação aqui */
+    background-position: top;
+    /* inserir explicação aqui */
+    background-repeat: no-repeat;
+    /* inserir explicação aqui */
+    background-attachment: fixed;
+    /*inserir explicação aqui */
+    background-size: cover;
+    /*inserir explicação aqui */
+    text-align: justify;
+    /*inserir explicação aqui */
+    /* color: rgb(210, 211, 212); */
+
+}
+
+header
+ {
+    /* Esse vw, significa viewport, site responsivo,
+    pixel, usado para medidas fixas*/
+
+    height: 75px;
+    background-color: #00ffff;
+    color: #051937;
+    padding: 7px;
+    /* margin: auto; */
+    margin-top: 17px;
+}
+
+menu,
+ul {
+    /* inserir explicação aqui */
+
+    height: 3vw;
+    border-radius: 5px 0px 0px 5px;
+    /* background-color: #b1d307; */
+    background-color: #f6ff00;
+    /* padding: auto; */
+    padding: 8px;
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+    display: block;
+
+}
+
+li {
+    /* inserir explicação aqui */
+    list-style-type: none;
+    text-align: center;
+    display: inline-block;
+    /* padding: 5px; */
+    border-radius: 150px 0px 0px 150px;
+    padding: 8px;
+}
+
+section {
+
+    height: 100vh;
+    color: #212122;
+    background-color: #001eff;
+    padding: 0.5em;
+    margin: auto;
+}
+
+article {
+    padding: 0.5em;
+    margin: 0.5em;
+    color: #f0f8ff;
+}
+
+footer {
+
+    height: 24px;
+    background-color: #aa0ca0;
+    padding: 0, 5px;
+    margin: 0, 7px;
+    color: #f0f8ff;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #f0f8ff;
+
+}
+
+/* link do site, deve ser configurado */
+a {
+    color: #d2691e;
+    text-decoration: none;
+    background-color: transparent;
+
+}
+
+/* link quando visitado, deve ser diferente */
+a:visited {
+    color: #710906;
+    text-decoration: none;
+    /* background-color: #00ff0d49; */
+}
+
+/*link quando clicado, deve ser igual */
+a:hover {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #001eff;
+}
+
+#vheader{
+    /* 
+    Para usar id no css colocamos o # 
+    SE fosse uma class seria o .        
+    */
+
+    background-color: #abfa5d;
+
+}
+
+#gyheader{
+    /* 
+    Para usar id no css colocamos o # 
+    SE fosse uma class seria o .        
+    */
+    background-color: #7e7676;
+
+}

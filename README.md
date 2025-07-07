@@ -1,4 +1,4 @@
-# Fundamentos e Pensamento Computacional: Git e Github
+# Fundamentos e Pensamento Computacional: Git e Github - Teste de GitHub Pages
 
 Um guia completo para iniciantes em programação e pensamento computacional aprenderem a usar Git e Github.
 
